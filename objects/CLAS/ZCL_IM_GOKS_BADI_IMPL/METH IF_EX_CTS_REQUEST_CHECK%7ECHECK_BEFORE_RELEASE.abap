@@ -1,0 +1,4 @@
+  method IF_EX_CTS_REQUEST_CHECK~CHECK_BEFORE_RELEASE.
+    "GoksTest
+
+  endmethod.
